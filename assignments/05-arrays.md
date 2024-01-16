@@ -41,7 +41,7 @@
 6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) solve in searching
 7. [Jump Game](https://leetcode.com/problems/jump-game/) done ( easy ) think from the end of the array.
 8. [Rotate Array](https://leetcode.com/problems/rotate-array/) done (imp)
-9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+9. [Sort Colors](https://leetcode.com/problems/sort-colors/) done ( dutch flag algorithm to be used ) revise
 10. [House Robber](https://leetcode.com/problems/house-robber/)
 
 ### Hard
