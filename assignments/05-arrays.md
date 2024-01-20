@@ -36,13 +36,13 @@
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) difficult (done)
 2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) same as 1. (done)
 3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
-4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) done ( do it without extra space )
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) very tricky!!! (done)
 6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) solve in searching
 7. [Jump Game](https://leetcode.com/problems/jump-game/) done ( easy ) think from the end of the array.
 8. [Rotate Array](https://leetcode.com/problems/rotate-array/) done (imp)
 9. [Sort Colors](https://leetcode.com/problems/sort-colors/) done ( dutch flag algorithm to be used ) revise
-10. [House Robber](https://leetcode.com/problems/house-robber/)
+10. [House Robber](https://leetcode.com/problems/house-robber/) dynamic programing req
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
