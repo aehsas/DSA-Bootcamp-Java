@@ -14,9 +14,9 @@
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) done
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/) done
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) done
-- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) Cancer done
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/) done
-- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) done
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
