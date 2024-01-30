@@ -30,7 +30,7 @@
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) crying done
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) kill me !!! done
 - [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) done ( hate this )
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 - [Reach a Number](https://leetcode.com/problems/reach-a-number/)
