@@ -18,8 +18,8 @@
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) done
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - [Array Partition I](https://leetcode.com/problems/array-partition-i/)
-- [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
-- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+- [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) done
+- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) done ( 2 pointer )
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
