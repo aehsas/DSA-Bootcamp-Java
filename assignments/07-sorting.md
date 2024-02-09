@@ -9,13 +9,13 @@
 # Questions
 
 ## Easy
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [Majority Element](https://leetcode.com/problems/majority-element/)
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [Missing Number](https://leetcode.com/problems/missing-number/)
-- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-- [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-- [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) done
+- [Majority Element](https://leetcode.com/problems/majority-element/) done
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) done
+- [Missing Number](https://leetcode.com/problems/missing-number/) done
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) done
+- [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) done
+- [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) done
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - [Array Partition I](https://leetcode.com/problems/array-partition-i/)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
