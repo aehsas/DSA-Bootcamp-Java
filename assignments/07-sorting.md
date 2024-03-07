@@ -24,9 +24,9 @@
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) done
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) done ( do it in o(n) )
 - [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
-- [Height Checker](https://leetcode.com/problems/height-checker/)
-- [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
-- [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
+- [Height Checker](https://leetcode.com/problems/height-checker/) done
+- [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) done
+- [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) done
 - [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
 - [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
