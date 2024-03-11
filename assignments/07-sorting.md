@@ -27,7 +27,7 @@
 - [Height Checker](https://leetcode.com/problems/height-checker/) done
 - [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) done
 - [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) done
-- [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
+- [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) done (good)
 - [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
