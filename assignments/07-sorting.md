@@ -45,7 +45,7 @@
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/) Done ( Comparator use ) Revisit
 - [Sort Colors](https://leetcode.com/problems/sort-colors/) done
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
