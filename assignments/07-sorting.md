@@ -49,7 +49,7 @@
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
-- [Largest Number](https://leetcode.com/problems/largest-number/)
+- [Largest Number](https://leetcode.com/problems/largest-number/) done (Comparator use)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) done same as below.
 - [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) (Good) done [ refer notes ]
