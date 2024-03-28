@@ -42,7 +42,7 @@
 
 ## Medium
 - [3Sum](https://leetcode.com/problems/3sum/) done ( revisit) good 
-- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/) same as above ( revisit) done
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/) Done ( Comparator use ) Revisit
