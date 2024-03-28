@@ -43,8 +43,8 @@
 ## Medium
 - [3Sum](https://leetcode.com/problems/3sum/) done ( revisit) good 
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/) same as above ( revisit) done
-- [4Sum](https://leetcode.com/problems/4sum/)
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [4Sum](https://leetcode.com/problems/4sum/) done (simalar to 1 & 2)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) done (easy)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/) Done ( Comparator use ) Revisit
 - [Sort Colors](https://leetcode.com/problems/sort-colors/) done
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
