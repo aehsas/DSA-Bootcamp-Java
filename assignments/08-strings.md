@@ -17,8 +17,8 @@
 - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) done
 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) done 
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) ( Good Ques) done
-- [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-- [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+- [Implement strStr()](https://leetcode.com/problems/implement-strstr/) done 
+- [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) Good Revisit question done
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
