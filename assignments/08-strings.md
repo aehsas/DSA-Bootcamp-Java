@@ -19,9 +19,9 @@
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) ( Good Ques) done
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) done 
 - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) Good Revisit question done
-- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) done
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
-- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) Done Revisit good
 - [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
 - [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
