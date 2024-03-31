@@ -27,8 +27,8 @@
 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) done
 - [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) done
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [Length of last word](https://leetcode.com/problems/length-of-last-word/)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) done
+- [Length of last word](https://leetcode.com/problems/length-of-last-word/) done
 
 ## Medium
 
