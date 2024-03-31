@@ -26,7 +26,7 @@
 - [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) REtarded description too dyslexic understand.
 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) done
 - [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) done
-- [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) done ( don't over think just subtract if preceding char smaller )
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) done
 - [Length of last word](https://leetcode.com/problems/length-of-last-word/) done
 
