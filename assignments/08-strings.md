@@ -47,7 +47,7 @@
 - [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
 - [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
-- [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
+- [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) Done Used comparator
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) Done ( But revisit to understand recursive approach )
 - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
 - [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) Done ( lowkey proud of my shitty logic )
