@@ -45,7 +45,7 @@
 - [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
 - [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
 - [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
-- [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
+- [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) Sliding Window tech IMP!!!! ( done )
 - [Shifting Letters](https://leetcode.com/problems/shifting-letters/) Done
 - [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) Done Used comparator
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) Done ( But revisit to understand recursive approach )
