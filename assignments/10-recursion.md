@@ -3,6 +3,14 @@
 
 # Problems
 
+Extra recursion problems:
+fibonacci series
+print n numbers
+binary search
+mean of n numbers
+https://leetcode.com/problems/power-of-three/solutions/
+https://leetcode.com/problems/power-of-two/description/
+
 ## Easy
 - [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
 - [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
