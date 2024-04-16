@@ -4,7 +4,7 @@
 # Problems
 
 ## Easy
-- [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
+- [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG` Done
 - [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG` Done
 - [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`  Done
 - [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG` Done
@@ -29,7 +29,7 @@
       a = 2, 3, 4
       (2 ^ -31) <= n <= (2 ^ 31) - 1      
 ```
-- [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
+- [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank` Done
 - [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
 - [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode` Done Good Revisit
 - [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
