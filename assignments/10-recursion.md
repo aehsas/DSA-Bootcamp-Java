@@ -11,11 +11,11 @@
 - [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode` Done
 - [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`   Done 
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode` Done
-- [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
-- [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
+- [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef` Done
+- [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG` Done
 - [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
-- [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
-- [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
+- [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG` Done
+- [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG` Done
 - [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`  Done
 - [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`  Done
 - [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`  Done
