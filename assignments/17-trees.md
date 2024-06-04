@@ -16,12 +16,12 @@
 - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) `leetcode` Done IMP
 - [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) `leetcode` Done
 - [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) `leetcode`
-- [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) `leetcode`
-- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `leetcode`
+- [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) `leetcode`Done
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `leetcode` Done
 
 ## Medium
 
-- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode`
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode` Done
 - [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) `leetcode`
 - [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) `leetcode`
 - [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) `leetcode`
