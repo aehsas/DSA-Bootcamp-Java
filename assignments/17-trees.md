@@ -26,8 +26,8 @@
 - [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) `leetcode` Done
 - [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) `leetcode` Done ( IMP understand Pattern ) [ diameter of tree similar] 
 - [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) `leetcode` DOne ( Binary Search )
-- [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) `leetcode`
-- [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) `leetcode`
+- [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) `leetcode` Done
+- [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) `leetcode` Done
 - [Operations on Tree](https://leetcode.com/problems/operations-on-tree/) `leetcode`
 - [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) `leetcode`
 - [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) `leetcode`
